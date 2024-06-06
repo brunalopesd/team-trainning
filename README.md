@@ -1,3 +1,3 @@
 # team-trainning
 
-Desafios psra desatrofiar o cerebro
+Desafios para desatrofiar o cerebro
